@@ -1,3 +1,29 @@
+# mem0
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 AI Agent 的记忆层，可直接接入的持久化上下文基础设施。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <a href="https://github.com/mem0ai/mem0">
     <img src="docs/images/banner-sm.png" width="800px" alt="Mem0 - The Memory Layer for Personalized AI">
